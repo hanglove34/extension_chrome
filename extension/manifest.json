@@ -1,8 +1,9 @@
   
 {
-    "name": "Hello, World!",
+    "name": "Research Google",
     "version": "1.0",
     "manifest_version": 3,
+    "description": "take all the name of the result from a research on google",
     "background": {
       "service_worker": "background.js"
     },

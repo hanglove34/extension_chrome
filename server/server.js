@@ -17,5 +17,5 @@ server.post('/', function (req, res) {
 server.use('/', apiRouter);
 
 server.listen(8080, function() {
-    console.log("server en écoute :)");
+    console.log("server activate");
 })
